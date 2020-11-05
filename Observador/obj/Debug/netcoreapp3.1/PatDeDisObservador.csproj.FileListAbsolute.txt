@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Observador\Observador\bin\Debug\netcoreapp3.1\PatDeDisObservador.exe
+C:\Users\HP\source\repos\Observador\Observador\bin\Debug\netcoreapp3.1\PatDeDisObservador.deps.json
+C:\Users\HP\source\repos\Observador\Observador\bin\Debug\netcoreapp3.1\PatDeDisObservador.runtimeconfig.json
+C:\Users\HP\source\repos\Observador\Observador\bin\Debug\netcoreapp3.1\PatDeDisObservador.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Observador\Observador\bin\Debug\netcoreapp3.1\PatDeDisObservador.dll
+C:\Users\HP\source\repos\Observador\Observador\bin\Debug\netcoreapp3.1\PatDeDisObservador.pdb
+C:\Users\HP\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\PatDeDisObservador.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\PatDeDisObservador.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\PatDeDisObservador.AssemblyInfo.cs
+C:\Users\HP\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\PatDeDisObservador.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\PatDeDisObservador.dll
+C:\Users\HP\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\PatDeDisObservador.pdb
+C:\Users\HP\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\PatDeDisObservador.genruntimeconfig.cache
